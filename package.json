@@ -1,6 +1,6 @@
 {
   "name": "vue-frontend-project",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "private": false,
   "scripts": {
     "dev": "vite",
@@ -36,9 +36,9 @@
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.6"
   },
-  "description": "This template should help get you started developing with Vue 3 in Vite.",
-  "main": "postcss.config.js",
-  "author": "",
+  "description": "This is my first vue frontend project using vitejs and tailwindcss for my personal project",
+  "main": "src/main.js",
+  "author": "togs",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -47,5 +47,9 @@
   "bugs": {
     "url": "https://github.com/jeremiatoga123/vue-frontend/issues"
   },
-  "homepage": "https://github.com/jeremiatoga123/vue-frontend#readme"
+  "homepage": "https://github.com/jeremiatoga123/vue-frontend#readme",
+  "keywords": [
+    "vue",
+    "frontend"
+  ]
 }
