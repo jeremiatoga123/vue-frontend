@@ -1,6 +1,6 @@
 {
   "name": "vue-frontend-project",
-  "version": "1.1.6",
+  "version": "1.1.9",
   "private": false,
   "scripts": {
     "dev": "vite",
@@ -42,7 +42,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremiatoga123/vue-frontend.git"
+    "url": "ghttps://github.com/jeremiatoga123/vue-frontend"
   },
   "bugs": {
     "url": "https://github.com/jeremiatoga123/vue-frontend/issues"
